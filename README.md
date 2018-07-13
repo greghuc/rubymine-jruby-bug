@@ -26,14 +26,14 @@ vagrant ssh
 
 cd /vagrant
 
+# check ruby is installed
+ls /home/vagrant/.rbenv/versions/2.5.0/bin/ruby
+
 # check java is installed
 java --version
 
 # check jruby is installed
 ls /home/vagrant/.rbenv/versions/jruby-9.2.0.0/bin/ruby
-
-# check ruby is installed
-ls /home/vagrant/.rbenv/versions/2.5.0/bin/ruby
 ```
 
 ## Configuring Rubymine
