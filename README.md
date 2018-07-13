@@ -2,7 +2,7 @@
 
 This project shows that Rubymine 2018.1 + vagrant + JRuby 9.2.0 + Java 10.0.1 doesn't work. To demonstrate this,
 follow the instructions below. We first create a vagrant box with java 10.0.1, jruby 9.2.0 and ruby 1.5.3 installed.
-We then configure Rubymine 2018.1 to use either installed Ruby as a remove interpreter: ruby 1.5.3 works fine, but jruby 9.2.0
+We then configure Rubymine 2018.1 to use either installed Ruby as a remote interpreter: ruby 1.5.3 works fine, but jruby 9.2.0
 does not.
 
 Observed error messages when setting jruby as a remote interpreter:
