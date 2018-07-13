@@ -78,7 +78,7 @@ Languages & Frameworks
 
 ## Logs
 
-Rubymine 2018.1 log whilst setting JRuby as a remove interpreter:
+Rubymine 2018.1 log whilst setting JRuby as a remote interpreter:
 
 ```
 2018-07-13 11:10:46,766 [ 120778]   INFO -    #com.intellij.ssh.RSyncUtil - rsync version: rsync  version 2.6.9  protocol version 29 
